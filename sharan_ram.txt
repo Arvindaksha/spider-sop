@@ -1,0 +1,11 @@
+git clone      -to copy files from remote repo
+git branch     -to create a new branch
+git checkout   -to change the current branch
+git merge      -to combine two branches
+git status     -to check the status of the files
+git add        -to add changes in the working directory
+git commit     -to add changes to the local repo
+git push       -to transfer the last commit to a remote repo
+cd             -to change directory
+mv             -to rename the file
+touch          -to create new file
