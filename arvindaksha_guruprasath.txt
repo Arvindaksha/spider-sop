@@ -1,0 +1,8 @@
+cd - To Change Directory
+git clone "url" - To clone the repository
+git branch "Branchname" - To create branch name
+git checkout "Branchname" -To switch to the respective branch
+touch "filename"-To create a file (Select the type by clicking on it)
+git merge "Branchname" -To merge the two branches ( Before that we have to checkout to the branch in which we are going to merge)
+mv filename1 filename2 - To rename filename2 to filename1
+
